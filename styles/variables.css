@@ -7,8 +7,10 @@
   --text-decor-color: #000028;
   --title-color: #db00ff;
   --accent-color: #ff0070;
+  --decorated-color: #ff0070;
   --bg-color: #000028;
   --shadow-color: #ff0070;
   --btn-color: #ff0070;
+  --btn-hover-color: rgba(255, 0, 111, 0.4);
   --section-heading-color: #ff0070;
 }
